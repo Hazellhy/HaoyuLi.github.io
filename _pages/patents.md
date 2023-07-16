@@ -5,5 +5,4 @@ permalink: /patents/
 author_profile: true
 ---
 
-# Patents
-TBA
+TBA.
