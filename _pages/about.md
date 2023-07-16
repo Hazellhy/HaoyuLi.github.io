@@ -14,7 +14,7 @@ Haoyu Li is a first-year postgraduate student at the [School of Cyber Science an
 # Research Interests
 * Physical-Layer Secret Key Generation
 
-# Educations
+# Education
 * Sep. 2022 - Now, M.Sc., Cyber Science and Engineering, Southeast University, Supervisor: [Prof. Guyue Li](https://cyber.seu.edu.cn/_s303/lgy1/list.psp)
 * Sep. 2017 - June 2021, B.Eng. (with honours), Information Engineering, Chien-Shiung Wu College, Southeast University.
 
